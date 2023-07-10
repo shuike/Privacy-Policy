@@ -1,0 +1,33 @@
+Privacy Policy
+
+Welcome to our memo app! We take your privacy seriously and are committed to protecting your personal information. Please be sure to read and understand the contents of this privacy policy before you start using our app.
+
+Information Collection and Use
+
+Our app does not collect, store or use your personally identifiable information. We may collect and use non-personally identifiable information you provide only with your explicit consent to provide a better user experience and functionality.
+
+The following are examples of the non-personally identifiable information we may collect:
+
+1. Device Information: We may collect information related to the device you are using, such as device model number, operating system version, and unique device identifier.
+2. Usage Information: We may collect information related to your use of our applications, such as your operating behavior, frequency of use, and application crash logs.
+3. Cookies and Similar Technologies: Our apps do not use cookies or similar technologies to collect information.
+
+Information Sharing and Disclosure
+
+We do not sell, trade or transfer your personal information to third parties. We will only share your non-personally identifiable information in the following circumstances:
+
+1. Legally Required: We may disclose your information to authorized authorities as required by applicable laws, regulations or legal process.
+2. To protect rights and interests: We may disclose your information to protect our rights and interests, property or safety.
+
+Data Security
+
+We take reasonable security measures to protect your personal and non-personally identifiable information from unauthorized access, use, modification or disclosure. However, please note that due to the open and global nature of the Internet, we cannot guarantee the absolute security of information.
+
+Updates to Privacy Policy
+
+We may update the contents of this Privacy Policy from time to time. When we make significant changes, we will alert you by posting a notice within the Application or by other means. Please ensure that you read and understand the latest version of our Privacy Policy before you continue to use our app.
+
+Contact Us
+
+If you have any questions or comments about this Privacy Policy or our data processing practices, please contact us at shuike007@gmail.com
+
